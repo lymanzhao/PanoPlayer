@@ -1,8 +1,11 @@
 Pano Player
 =============
 
-
 **时间：20150627**
+
+
+
+![panoplayer-logo](panoplayer-logo.png)
 
         Pano Player是用于360度全景视频的Web播放器，利用HTML5、WebGL技术，让浏览器访问服务器上或者本地的360度全景视频文件，即能正常播放体验。
         使用头戴式设备，包括热门的Oculus Rift，以及基于谷歌Cardboard技术的头盔，比如三星、HTC等，都可以在火狐、Safari等浏览器里体验。
